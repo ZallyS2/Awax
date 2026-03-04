@@ -19,5 +19,5 @@
   <p>
   Site completinho e responsivo
     
-   Para ver o site clique  <a href="https://zallih.github.io/Awax/">AQUI</a>
+   Para ver o site clique  <a href="https://zallys2.github.io/Awax/">AQUI</a>
   </p>
